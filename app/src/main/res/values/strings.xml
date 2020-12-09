@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit Conversion Calculator</string>
+    <string name="feet_to_meters">Feet to Meters</string>
+    <string name="inches_to_cm">Inches to Centimeters</string>
+    <string name="joules_to_kc">Joules to Kilocalories</string>
+    <string name="stringlabel_feet">Feet</string>
+    <string name="stringlabel_meters">Meters</string>
+    <string name="stringlabel_inches">Inches</string>
+    <string name="stringlabel_centimeters">Centimeters</string>
+    <string name="stringlabel_joules">Joules</string>
+    <string name="stringlabel_kilocalories">Kilocalories</string>
+    <string name="output_value">0</string>
+</resources>
